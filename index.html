@@ -1,0 +1,329 @@
+﻿
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link href="css2?family=Open+Sans:wght@700&family=Raleway:wght@400;600;700&family=Noto+Sans:wght@500&display=swap" rel="stylesheet">
+        <script src="6df07921d2.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="style.css?v7">
+        <link rel="stylesheet" href="css/adaptive.css">
+        <script src="ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="assets/js/snowfall.js"></script>
+        <title>VastRP</title>
+    </head>
+    <body>
+        <header id="header" class="header lock-padding">
+            <div class="container">               
+                <div class="header__inner">
+                    <div class="header__logo">
+                        <img src="images/logoVRP.png?v1" alt="" class="logoimg" style="width:50px; ">
+                        <img src="images/text1.png" alt="" class="imgtext1" style="width:200px; ">
+                    </div>
+                    <nav class="nav">
+                        <!--<a class="nav__link rulezzz">Правила</a> !-->
+                        <a class="nav__link" href="https://vk.com/rusvastrp" target="_blank">ВКонтакте</a>
+                        <a class="nav__link" href="https://discord.gg/B4YfYsngg2" target="_blank">Discord</a>
+                        <a class="nav__link" href="https://vk.com/vastkons" target="_blank">Личный донат</a>
+
+                        <form action="https://steamcommunity.com/openid/login" method="post" id="loginsteam">
+                            <input type="hidden" name="openid.identity" value="http://specs.openid.net/auth/2.0/identifier_select">
+                            <input type="hidden" name="openid.claimed_id" value="http://specs.openid.net/auth/2.0/identifier_select">
+                            <input type="hidden" name="openid.ns" value="http://specs.openid.net/auth/2.0">
+                            <input type="hidden" name="openid.mode" value="checkid_setup">
+                            <input type="hidden" name="openid.realm" value="https://lk.vastgm.ru/"> <!-- TODO: заменить на поддомены -->
+                            <input type="hidden" name="openid.return_to" value="https://lk.vastgm.ru/">
+                            <a class="nav__link" href="#" onclick="loginsteam.submit()">Личный кабинет</a>
+                        </form>
+                    </nav>
+                </div>
+            </div>
+            <div class="hamburger-menu">
+                <input id="menu__toggle" type="checkbox">
+                <label class="menu__btn" for="menu__toggle">
+                  <span></span>
+                </label>
+                <ul class="menu__box">
+                    <!-- <li><a class="menu__item" href="https://docs.google.com/document/d/1_wVK1sz0Wt87lPL6Sz1jaXIWPDQk5pWr831UI96ukYo/edit" target="_blank">Правила</a></li> !-->
+                    <li><a class="menu__item" href="https://vk.com/rusvastrp" target="_blank">ВКонтакте</a></li>
+                    <li><a class="menu__item" href="https://discord.gg/B4YfYsngg2" target="_blank">Discord</a></li>
+                    <li><a class="menu__item" href="https://vk.com/vastkons" target="_blank">Личный донат</a></li>
+                    <li><a class="menu__item" href="#" onclick="loginsteam.submit()">Личный кабинет</a></li>
+                </ul>
+            </div>
+        </header>
+
+
+        <!-- Intro -->
+        
+        <div class="intro">
+            <div class="container">
+                <div class="intro__inner">
+                    <h1 class="intro__title">Добро пожаловать на VastRP - один из лучших РП проектов в Garry's Mod!</h1>
+                    <h2 class="intro__subtitle">VastRP - это один из лучших проектов в котором вы полностью сможете погрузиться в РП жизнь.</h2>                   
+                </div>
+            </div>
+
+        <div class="conn">
+            <a class="connect1 butn--black" href="steam://connect/212.22.93.206:27015">Подключиться к VastRP №1</a>
+            <a class="connect2 butn--black" href="steam://connect/212.22.93.206:27017">Подключиться к VastRP №2</a>
+        </div>
+
+        </div>
+        
+        <!-- Wrapper -->
+
+        <div class="wrapper" style="
+        min-height: calc(100% - 203.33px);">
+        
+        <!-- Donate Menu -->
+        
+        <div class="donateback">
+            <h3 class="donatetitle">Донат</h3>
+        </div>
+
+        <section id="store_items">
+            <h3>Пополнение</h3>
+            <div class="items">
+                <div class="card Center-item-pln" style="background-image: url(images/money.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;">
+                    <div class="price">Мин. 50</div>
+                    <div class="name title">Пополнение</div>
+                </div>
+            </div>
+            <h3>Привилегии</h3>
+            <div class="items">
+                <div class="card Center-item" style="background-image: url(images/vip.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="👑 VIP предоставляет эксклюзивные профы, удвоенные зарплаты и тд." data-title="Вип" data-price="111" data-extra="vip_navsegda">
+                    <div class="price data-price">111</div>
+                    <div class="name">Вип</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/moder.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="👑 Модератор предоставляет возможность летать, банить, кикать и тд." data-title="Модератор" data-price="239" data-extra="moder_navsegda">
+                    <div class="price">239</div>
+                    <div class="name">Модератор</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/admin.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="👑 Администратор является выше Модератора и имеет те же возможности что и Модератор." data-title="Администратор" data-price="479" data-extra="admin_navsegda">
+                    <div class="price">479</div>
+                    <div class="name">Администратор</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/superadmin.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="👑 Суперадмин является выше Администратора и имеет те же возможности что и Администратор." data-title="Суперадмин" data-price="719" data-extra="superadmin_navsegda">
+                    <div class="price">719</div>
+                    <div class="name">Суперадмин</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/owner.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="👑 Овнер является выше Суперадмина и имеет те же возможности что и Суперадмин." data-title="Овнер" data-price="1279" data-extra="owner_navsegda">
+                    <div class="price">1279</div>
+                    <div class="name">Овнер</div>
+                </div>
+            </div>
+            <h3>Оружие</h3>
+            <div class="items">
+                <div class="card Center-item" style="background-image: url(images/parkour.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="При спавне выдаётся оружие 'Паркур'" data-title="Паркур" data-price="239" data-extra="parkur">
+                    <div class="price">239</div>
+                    <div class="name">Паркур</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/apteka.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="При спавне выдаётся оружие 'Аптечка'" data-title="Аптечка" data-price="158" data-extra="aptechka">
+                    <div class="price">158</div>
+                    <div class="name">Аптечка</div>
+                </div>
+            </div>
+            <h3>Игровая валюта</h3>
+            <div class="items">
+                <div class="card Center-item" style="background-image: url(images/money.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="Выдается 100.000$ игровой валюты единожды" data-title="100.000$" data-price="23" data-extra="100kk">
+                    <div class="price">23</div>
+                    <div class="name">100.000$</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/money.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="Выдается 500.000$ игровой валюты единожды" data-title="500.000$" data-price="119" data-extra="500kk">
+                    <div class="price">119</div>
+                    <div class="name">500.000$</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/money.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="Выдается 700.000$ игровой валюты единожды" data-title="700.000$" data-price="159" data-extra="700kk">
+                    <div class="price">159</div>
+                    <div class="name">700.000$</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/money.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="Выдается 1.000.000$ игровой валюты единожды" data-title="1.000.000$" data-price="239" data-extra="1mm">
+                    <div class="price">239</div>
+                    <div class="name">1.000.000$</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/money.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="Выдается 4.500.000$ игровой валюты единожды" data-title="4.500.000$" data-price="671" data-extra="4mm500kk">
+                    <div class="price">671</div>
+                    <div class="name">4.500.000$</div>
+                </div>
+            </div>
+            <h3>Разное</h3>
+            <div class="items">
+                <div class="card Center-item" style="background-image: url(images/dj.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="Выдаётся возможность совершать двойной прыжок" data-title="Двойной прыжок" data-price="400" data-extra="dvprijok">
+                    <div class="price">400</div>
+                    <div class="name">Двойной прыжок</div>
+                </div>
+                <div class="card Center-item" style="background-image: url(images/unban.png); background-size: 100px 100px; background-color: rgb(219, 219, 219); box-shadow: 5px 5px 20px gainsboro;" data-desc="Даётся разбан" data-title="Разбан" data-price="159" data-extra="razban">
+                    <div class="price">159</div>
+                    <div class="name">Разбан</div>
+                </div>
+            </div>
+        </section>
+        </div>
+
+        <div class="modal-overlay-rules">
+            <div class="modal-dialog" style="width:75%;">
+                <div class="modal-dialog-title">
+                    Правила сервера
+                </div>
+                <a href="##" rel="nofollow" id="modal-close-rules" data-modal-close="">×</a>
+                <iframe style="width:100%;" height="800" id="inlineFrameExample" title="Inline Frame Example" src="https://docs.google.com/document/d/1_wVK1sz0Wt87lPL6Sz1jaXIWPDQk5pWr831UI96ukYo/edit">
+                </iframe>
+            </div>
+        </div>
+
+        <div class="modal-overlay-info">
+            <div class="modal-dialog">
+                <a href="##" rel="nofollow" id="modal-close-info" data-modal-close="">×</a>
+                <div class="modal-dialog-title">
+                    Юридическая информация
+                </div>
+                <div class="modal-dialog-body" style="margin-bottom:20px;">
+                    ИП Шкаричев В.А<br>
+                    ОГРНИП: 323774600633662<br>
+                    ИНН:773374425640
+                </div>
+            </div>
+        </div>
+        <div class="modal-overlay">
+            <div class="modal-dialog">
+                <form action="javascript:void(0);" method="post">
+                    <a href="##" rel="nofollow" id="modal-close" data-modal-close="">×</a>
+                    <div class="modal-dialog-title"></div>
+                    <div class="modal-dialog-body">
+                        <input type="number" name="sum" hidden="">
+                        <input type="text" name="description" hidden="">
+                        <input type="text" name="extra" hidden="">
+                        <div class="description"></div>
+                        <div class="input-tipa" id="input-server">
+                            <select class="input-cho" id="select-server">
+                                <option value="v1">VastRP#1</option>
+                                <option value="v2">VastRP#2</option>
+                            </select>
+                        </div>
+                        <div class="input-tipa" id="input-steamid">
+                            <input class="input-cho" required="" pattern="STEAM_.*" type="text" name="steamid" placeholder="Введите свой STEAMID" value="">
+                        </div>
+                        <div class="input-tipa" id="input-email">
+                            <input class="input-cho" type="email" id="email" name="email" placeholder="example@domain.com" title="Введите адрес электронной почты в формате example@domain.com" required="">
+                        </div>
+                        <label class="input-checkbox">
+                            Я согласен с условиями <a style="color:#a3022b; text-decoration: none;" href="term.php.html" target="_blank">Пользовательского соглашения</a>
+                            <input type="checkbox" id="oferta" value="1">
+                            <span class="checkmark"></span>
+                        </label><div class="block-middle">
+                            <div class="block-left">
+                                <button type="submit" class="btn buy" disabled="">Купить</button>
+                            </div>
+
+                            <div class="block-right">
+                                <div class="value" style="color:black;">nil РУБ.</div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="modal-overlay-pln ">
+            <div class="modal-dialog">
+                <form action="javascript:void(0);" method="post">
+                    <a href="##" rel="nofollow" id="modal-close-pln" data-modal-close="">×</a>
+                    <div class="modal-dialog-title-pln">Пополнение счета</div>
+                    <div class="modal-dialog-body-pln">
+                        <div class="description-pln">Выдача донат-валюты происходит в течение 5 минут!</div> <!-- <div class="description-pln">Сейчас действует <span style="color:#FFBD5B">X2</span> пополнение</div> -->
+                        <div class="input-tipa" id="input-server">
+                            <select class="input-cho" id="select-server-pln">
+                                <option value="v1">VastRP#1</option>
+                                <option value="v2">VastRP#2</option>
+                            </select>
+                        </div>
+                        <div class="input-tipa" id="input-steamid">
+                            <input class="input-cho" required="" pattern="STEAM_.*" type="text" name="steamid-pln" placeholder="Введите свой STEAMID" value="" title="Неправильный STEAMID">
+                        </div>
+                        <div class="input-tipa" id="input-sum">
+                            <input class="input-cho" min="50" required="" type="number" name="sum-pln" placeholder="Введите сумму" value="">
+                        </div>
+                        <div class="input-tipa" id="input-email">
+                            <input class="input-cho" type="email" id="email" name="email-pln" placeholder="example@domain.com" title="Введите адрес электронной почты в формате example@domain.com" required="">
+                        </div>
+                        <label class="input-checkbox">
+                            Я согласен с условиями <a style="color:#a3022b; text-decoration: none;" href="term.php.html">Пользовательского соглашения</a>
+                            <input type="checkbox" id="oferta-pln" value="1">
+                            <span class="checkmark"></span>
+                        </label><div class="block-middle">
+                            <div class="block-left">
+                                <button type="submit" class="btn buy-pln" disabled="">Купить</button>
+                            </div>
+
+                            <div class="block-right">
+                                <div class="value">0 РУБ.</div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="modal-overlay-metod">
+            <div class="modal-dialog">
+                <form id="smert-pln" action="/pay.php" method="post">
+                    <a href="##" rel="nofollow" id="modal-close-method" data-modal-close="">×</a>
+                    <div class="modal-dialog-title-method">Выбор способ оплаты<br></div>
+                    <div class="modal-dialog-body">
+                        <input type="hidden" id="server" name="server">
+                        <input type="hidden" id="account" name="account">
+                        <input type="hidden" id="summethod" name="sum">
+                        <input type="hidden" id="emailrec" name="email">
+                        <input type="hidden" id="inputrec" name="rec">
+                        <ul class="methods">
+                            <li><input type="hidden" name="method" value="Qiwi" disabled=""><input class="btn-method" data-type="qiwi" type="submit" value=""></li>
+                            <li><input type="hidden" name="method" value="Card" disabled=""><input class="btn-method" data-type="unitpay-card" type="submit" value=""></li>
+                            <li><input type="hidden" name="method" value="Megafon" disabled=""><input class="btn-method" data-type="unitpay-mf" type="submit" value=""></li>
+                            <li><input type="hidden" name="method" value="SB" disabled=""><input class="btn-method" data-type="unitpay-sb" type="submit" value=""></li>
+                            <!-- <li><input type="hidden" name="method" value="Megafon2" disabled><input class="btn-method" data-type="unitpay-mf2" type="submit" value=""></li>
+                            <li><input type="hidden" name="method" value="Megafon3" disabled><input class="btn-method" data-type="unitpay-beeline" type="submit" value=""></li> -->
+                        </ul>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <footer>
+            <div class="wrapper">
+                <div class="logo">
+                    <a href="#" class="logotype">
+                        <div class="pic"></div>
+                        <div class="logo_text">
+                            <span class="still">vast</span>
+                            <span class="still2">roleplay</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="copyright">
+                    <p class="copy">
+                        © 2023 VastRP Все права защищены.
+                    </p>
+                </div>
+
+                <div class="rightinfo">
+                    <p class="copy">
+                        <a style="color:#a09797; text-decoration: none;" class="card Center-item-info">Юридическая информация</a>
+                    </p>
+                    <p class="copy">
+                        <a style="color:#a09797; text-decoration: none;" href="term.php.html">Пользовательское соглашение</a>
+                    </p>
+                    <p class="copy">
+                        <a style="color:#a09797; text-decoration: none;" href="privacy.php.html">Политика конфиденциальности</a>
+                    </p>
+                    <p class="copy">
+                        <a style="color:#a09797; text-decoration: none;" href="oferta_rek_main.html">Оферта рекуррентных платежей</a>
+                    </p>
+
+                    <div class="cards"></div>
+                </div>
+        </div></footer>
+    <script src="popit.js?v10"></script>
+    <script type='text/javascript' async="" defer="" src='notify/notify.js'></script>
+    </body>
+</html>
+

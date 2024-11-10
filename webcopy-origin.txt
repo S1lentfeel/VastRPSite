@@ -1,0 +1,176 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\vastgm.ru\ajax\libs\jquery\3.1.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://daruse.ru/assets/js/snowfall.js
+File Name: C:\Downloaded Web Sites\vastgm.ru\assets\js\snowfall.js
+Content Type: application/x-javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Raleway:wght@400;600;700&family=Noto+Sans:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\vastgm.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d.ttf
+File Name: C:\Downloaded Web Sites\vastgm.ru\s\notosans\v37\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\vastgm.ru\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\vastgm.ru\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+File Name: C:\Downloaded Web Sites\vastgm.ru\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\vastgm.ru\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/6df07921d2.js
+File Name: C:\Downloaded Web Sites\vastgm.ru\6df07921d2.js
+Content Type: text/javascript
+
+Uri: https://vastgm.ru/
+File Name: C:\Downloaded Web Sites\vastgm.ru\index.htm
+Content Type: text/html
+
+Uri: https://vastgm.ru/?page-rules
+File Name: C:\Downloaded Web Sites\vastgm.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://vastgm.ru/css/adaptive.css
+File Name: C:\Downloaded Web Sites\vastgm.ru\css\adaptive.css
+Content Type: text/css
+
+Uri: https://vastgm.ru/images/admin.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\admin.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/apteka.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\apteka.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/beeline.svg
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\beeline.svg
+Content Type: image/svg+xml
+
+Uri: https://vastgm.ru/images/card.svg
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\card.svg
+Content Type: image/svg+xml
+
+Uri: https://vastgm.ru/images/dj.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\dj.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/iomoney.svg
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\iomoney.svg
+Content Type: image/svg+xml
+
+Uri: https://vastgm.ru/images/logo.svg
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://vastgm.ru/images/logoVRP.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\logoVRP-1.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/logoVRP.png?v1
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\logoVRP.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/mf2.svg
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\mf2.svg
+Content Type: image/svg+xml
+
+Uri: https://vastgm.ru/images/moder.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\moder.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/money.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\money.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/Oformlenie_letnee_dlya_VastRP.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\Oformlenie_letnee_dlya_VastRP.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/owner.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\owner.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/parkour.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\parkour.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/qiwi.svg
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\qiwi.svg
+Content Type: image/svg+xml
+
+Uri: https://vastgm.ru/images/sabbath.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\sabbath.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/superadmin.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\superadmin.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/text1.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\text1.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/unban.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\unban.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/images/vip.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\images\vip.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/img/vmm.png
+File Name: C:\Downloaded Web Sites\vastgm.ru\img\vmm.png
+Content Type: image/png
+
+Uri: https://vastgm.ru/notify/notify.js
+File Name: C:\Downloaded Web Sites\vastgm.ru\notify\notify.js
+Content Type: application/javascript
+
+Uri: https://vastgm.ru/oferta_rek.pdf
+File Name: C:\Downloaded Web Sites\vastgm.ru\oferta_rek.pdf
+Content Type: application/pdf
+
+Uri: https://vastgm.ru/oferta_rek_2_v2.pdf
+File Name: C:\Downloaded Web Sites\vastgm.ru\oferta_rek_2_v2.pdf
+Content Type: application/pdf
+
+Uri: https://vastgm.ru/oferta_rek_3_v2.pdf
+File Name: C:\Downloaded Web Sites\vastgm.ru\oferta_rek_3_v2.pdf
+Content Type: application/pdf
+
+Uri: https://vastgm.ru/oferta_rek_4_v4.pdf
+File Name: C:\Downloaded Web Sites\vastgm.ru\oferta_rek_4_v4.pdf
+Content Type: application/pdf
+
+Uri: https://vastgm.ru/oferta_rek_main.html
+File Name: C:\Downloaded Web Sites\vastgm.ru\oferta_rek_main.html
+Content Type: text/html
+
+Uri: https://vastgm.ru/popit.js?v10
+File Name: C:\Downloaded Web Sites\vastgm.ru\popit.js
+Content Type: application/javascript
+
+Uri: https://vastgm.ru/privacy.php
+File Name: C:\Downloaded Web Sites\vastgm.ru\privacy.php.html
+Content Type: text/html
+
+Uri: https://vastgm.ru/style.css?v7
+File Name: C:\Downloaded Web Sites\vastgm.ru\style.css
+Content Type: text/css
+
+Uri: https://vastgm.ru/term.php
+File Name: C:\Downloaded Web Sites\vastgm.ru\term.php.html
+Content Type: text/html
+

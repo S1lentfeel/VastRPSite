@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74.928337mm"
+   height="72.799164mm"
+   viewBox="0 0 74.928337 72.799164"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Beeline 2021 (Icon) (Flat).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8116734"
+     inkscape:cx="241.48944"
+     inkscape:cy="163.93683"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <style
+       id="style824">
+      .cls-1 {
+        fill: #ffc800;
+      }
+
+      .cls-2 {
+        fill: url(#Безымянный_градиент);
+      }
+    </style>
+    <radialGradient
+       id="Безымянный_градиент"
+       data-name="Безымянный градиент"
+       cx="-785.6087"
+       cy="561.99933"
+       r="0.99983001"
+       gradientTransform="matrix(10.6099,0,0,-10.3118,8345.8416,5805.5324)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.5"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop826" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0.35"
+         id="stop828" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(25.890543,-68.63694)">
+    <g
+       id="g859"
+       transform="matrix(3.5301229,0,0,3.5301229,-25.890174,68.651313)">
+      <path
+         class="cls-1"
+         d="M 10.61163,20.616 A 10.46244,10.46244 0 0 0 21.22183,10.308 10.46241,10.46241 0 0 0 10.61163,0 10.46237,10.46237 0 0 0 0.00146,10.308 10.4624,10.4624 0 0 0 10.61163,20.616 Z"
+         id="path849" />
+      <path
+         d="m 15.17693,17.988 c -3.6033,2.02 -7.5111,2.382 -10.00725,1.172 a 10.8798,10.8798 0 0 0 10.74805,0.076 10.25453,10.25453 0 0 0 5.3071,-9.082 c -0.1687,2.704 -2.4467,5.812 -6.0479,7.834 z"
+         id="path851" />
+      <path
+         d="M 11.95653,0.756 C 12.68703,1.984 10.92143,4.304 8.01166,5.934 5.10188,7.566 2.153,7.892 1.42248,6.662 A 1.10723,1.10723 0 0 1 1.34222,6.474 2.49232,2.49232 0 0 1 1.92459,4.382 Q 2.05733,4.199 2.19623,4.022 A 10.46047,10.46047 0 0 1 5.30561,1.38 10.77013,10.77013 0 0 1 9.21549,0.086 Q 9.45008,0.053 9.67233,0.038 a 2.67181,2.67181 0 0 1 2.1545,0.554 1.19574,1.19574 0 0 1 0.1297,0.164 z"
+         id="path853" />
+      <path
+         d="m 16.468,2.08405 c 1.2758,2.146 -1.2985,5.908 -5.7475,8.404 C 6.2715,12.98405 1.629,13.268 0.3552,11.122 a 2.55837,2.55837 0 0 1 -0.34777,-1.184 9.948,9.948 0 0 0 0.79432,4.3 c 0.08849,0.208 0.18521,0.414 0.2881,0.618 l 0.0144,0.026 a 4.07477,4.07477 0 0 0 1.66067,1.522 c 2.49615,1.298 6.71676,0.852 10.66371,-1.362 3.9448,-2.214 6.4533,-5.54 6.5459,-8.288 a 3.90961,3.90961 0 0 0 -0.5206,-2.152 c -0.144,-0.21 -0.2943,-0.416 -0.4527,-0.612 a 10.47137,10.47137 0 0 0 -3.3954,-2.78 2.64434,2.64434 0 0 1 0.8622,0.874 l 0.002,0.004 z"
+         id="path855" />
+    </g>
+  </g>
+</svg>
